@@ -4,9 +4,7 @@ void main()
 	printf("\n Enter Charcter: ");
 	scanf("%c",&ch);
 	if(isalpha(ch))
-	    printf("\n Alphabet.");
-	else if(isdigit(ch))
-	    printf("\n Number.");
+	    printf("\n Alphabet");
 	else
-	   printf("\n neither alphabet nor number."); 
+	   printf("\n neither alphabet nor number"); 
 }
