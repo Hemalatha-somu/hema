@@ -6,5 +6,5 @@ void main()
 	if(isalpha(ch))
 	    printf("\n Alphabet");
 	else
-	   printf("\n neither alphabet nor number"); 
+	   printf("\n not alphabet"); 
 }
