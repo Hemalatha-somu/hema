@@ -1,6 +1,6 @@
 void main()
 {
-int n,count,r;
+int n,count=0,r;
 printf("\n enter the number:");
 scanf("%d",&n);
 while(i>0)
